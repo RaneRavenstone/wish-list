@@ -29,7 +29,7 @@ jobs:
           browserVersion:
           osName:
           osVersion:
-          testSuiteId: #{{ secrets.TEST_SUITE_ID }}
+          testSuiteSysId: #{{ secrets.TEST_SUITE_ID }}
           testSuiteName:
         env:
           snowUsername: ${{ secrets.NOW_USERNAME }}
