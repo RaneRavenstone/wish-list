@@ -23,7 +23,7 @@ jobs:
 
       - name: Run Tests
         id: atf_test_dev
-        uses: ServiceNow/sncicd-tests-run@1.0.0
+        uses: ServiceNow/sncicd-tests-run@1.0
         with:
           browserName:
           browserVersion:
