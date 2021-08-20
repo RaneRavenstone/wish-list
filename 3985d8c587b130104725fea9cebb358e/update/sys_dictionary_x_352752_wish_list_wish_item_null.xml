@@ -54,9 +54,9 @@
         <sys_package display_value="Wish List" source="x_352752_wish_list">3985d8c587b130104725fea9cebb358e</sys_package>
         <sys_policy/>
         <sys_scope display_value="Wish List">3985d8c587b130104725fea9cebb358e</sys_scope>
-        <sys_update_name>sys_dictionary_x_352752_wish_list_wish_item_null</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2021-08-10 10:28:45</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_352752_wish_list_wish_item_NULL</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-20 22:22:57</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
